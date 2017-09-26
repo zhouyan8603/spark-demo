@@ -1,2 +1,6 @@
 code/spark-demo/.idea/
 *.iml
+code/spark-demo/target/
+code/spark-demo/spark-core/target/
+code/spark-demo/spark-streaming/target/
+code/spark-demo/structured-streaming/target/
