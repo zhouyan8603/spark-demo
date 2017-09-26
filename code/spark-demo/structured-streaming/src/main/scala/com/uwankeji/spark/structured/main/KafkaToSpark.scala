@@ -6,7 +6,7 @@ import com.uwankeji.spark.structured.sink.ConsoleSink
 import org.apache.log4j.Logger
 import org.apache.log4j.Level
 
-import org.apache.spark.sql.{SparkSession}
+import org.apache.spark.sql.SparkSession
 
 /**
  * Created by Administrator on 2017/9/26.
